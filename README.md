@@ -1,4 +1,4 @@
-# Klasör Yapısı
+# Klasör Yapısı 123
 
 1. `node_modules`: Bu klasör, projenin bağımlılklarını (3. parti paketler/ kütüphaneler) örneğin React , Bootstrap gibi paketleri içerir. Yeni indirdiğimiz kütüphanein çalışması için gereken kodları buraya kaydeddilir. Bu klasörü elle düzenlemiyoruz . Paket indirde değiştirme işlmlerini komutlar aracılığı ile yapıcaz.
 
